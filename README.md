@@ -22,12 +22,18 @@ Each folder represents a **topic**, and inside you'll find a dedicated `README.m
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Authors
 
-Hi, I’m **Ahosan Kabir** 👋  
+**Ahosan Kabir** 👋  
 Software Developer | Tech Enthusiast | Lifelong Learner  
 
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/ahosan-kabir-48a893213/)  
+
+
+**Abrar Ahmed** 👋  
+Software Developer | Tech Enthusiast | Lifelong Learner  
+
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/abrar-ahmed-tian/)  
 
 ---
 
