@@ -20,6 +20,4 @@ Variables can hold different types of data, such as:
 5. Avoid using reserved keywords (like `if`, `for`, `while`) as variable names.
 
 
-
-
-
+test
