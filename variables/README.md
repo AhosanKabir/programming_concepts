@@ -18,6 +18,3 @@ Variables can hold different types of data, such as:
 3. Variable names can only contain letters, numbers, and underscores (`a-z`, `A-Z`, `0-9`, `_`).
 4. Variable names are case-sensitive (`myVar` and `myvar` are different).
 5. Avoid using reserved keywords (like `if`, `for`, `while`) as variable names.
-
-
-test
